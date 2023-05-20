@@ -6,6 +6,14 @@ int main() {
     int sueldo = 0;
     int sueldo_total = 0;
 
+
+    // int calculoSueldo(int cantidad_horas, int valor_hora); {
+    //     return cantidad_horas * valor_hora;
+    // }
+
+        
+
+
     // Entrada de datos
     printf("Ingrese el legajo: ");
     scanf("%d",&legajo);
